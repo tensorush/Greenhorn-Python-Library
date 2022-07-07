@@ -1,4 +1,4 @@
-# :snake: **Greenhorn Python Library**
+# :nauseated_face: :snake: **Greenhorn Python Library**
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/tensorush/Greenhorn-Python-Library/pulls)
 [![Contributors][contributors-shield]][contributors-url]
@@ -13,11 +13,11 @@
     <img src="https://bleuje.github.io/gifset/2021/gifs/2021_7_twister.gif">
 </p>
 
-<h4 align="center"> 
+<h4 align="center">
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :snake: Python library meant for personal studies of Python basics.
+## :white_check_mark: Solutions to the Python basics course.
 
 > ### _Any corrections are welcome!_ :hugs:
 

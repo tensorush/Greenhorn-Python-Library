@@ -5,7 +5,7 @@ setup(
     name='greenhorn',
     version='0.0.1',
     license='MIT License',
-    author='Georgy Trush',
+    author='Zhora Trush',
     author_email='tensorush@gmail.com',
     description='Python library meant for personal studies of Python basics',
     long_description=open('./README.md', 'r').read(),
