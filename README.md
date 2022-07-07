@@ -17,7 +17,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :white_check_mark: Solutions to the Python basics course.
+## :white_check_mark: Solutions to the Python basics course tasks.
 
 > ### _Any corrections are welcome!_ :hugs:
 
